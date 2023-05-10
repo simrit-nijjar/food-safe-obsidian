@@ -1,6 +1,3 @@
----
-title: "Definitions"
----
 * **Pathogen**: Harmful germs/microbes/bacteria/etc ([[Understanding Microorganisms]])
 * **[[Food-Borne Illness]]**: Replacement for food poisoning
 * **[[Potentially Hazardous Food]]**: Everything ready to cause bacteria to grow quickly

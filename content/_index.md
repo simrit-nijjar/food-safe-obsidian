@@ -4,38 +4,38 @@ title: "Home"
 
 ## Module 01: Introduction
 
-1. [[Definitions]]
-2. [[Key Messages]]
+1. [[Notes/Introduction/Definitions|Definitions]]
+2. [[Notes/Introduction/Key Messages|Key Messages]]
 
 ## Module 02: Public Health Legislation & Local Health Department
 
-1. [[Branches of Government]]
-2. [[Public Health Act]]
-3. [[Provincial Food Safety Regulations]]
+1. [[Notes/Govenment/Branches of Government|Branches of Government]]
+2. [[Notes/Govenment/Public Health Act|Public Health Act]]
+3. [[Notes/Govenment/Provincial Food Safety Regulations|Provincial Food Safety Regulations]]
 
 ## Module 03: Understanding Microorganisms
 
-1. [[Understanding Microorganisms]]
-2. [[Types of Persons with Pathogens]]
-3. [[Bacteria]]
-4. [[Potentially Hazardous Food]]
-5. [[FAT TOM]]
+1. [[Notes/Understanding Microorganisms|Understanding Microorganisms]]
+2. [[Notes/Types of Persons with Pathogens|Types of Persons with Pathogens]]
+3. [[Notes/Pathogens/Bacteria|Bacteria]]
+4. [[Notes/Potentially Hazardous Food|Potentially Hazardous Food]]
+5. [[Notes/FAT TOM|FAT TOM]]
 
 ## Module 04: Understanding Food-Borne Illness
 
-1. [[Food-Borne Illness]]
-	1. [[Bacteria]] (**Pathogenic Bacteria**)
-	2. [[Parasites]]
-	3. [[Viruses]]
-	4. [[Fungi]]
-2. [[Probe Thermometer]]
-3. [[Most Common Culprits]]
+1. [[Notes/Food-Borne Illness|Food-Borne Illness]]
+	1. [[Notes/Pathogens/Bacteria|Bacteria]] (**Pathogenic Bacteria**)
+	2. [[Notes/Pathogens/Parasites|Parasites]]
+	3. [[Notes/Pathogens/Viruses|Viruses]]
+	4. [[Notes/Pathogens/Fungi|Fungi]]
+2. [[Notes/Probe Thermometer|Probe Thermometer]]
+3. [[Notes/Most Common Culprits|Most Common Culprits]]
 
 ## Module 05: Time-Temperature Control
 
-1. [[Temperature Abuse]]
-2. [[Probe Thermometer]]
-3. [[Flow of Food]]
+1. [[Notes/Temperature Abuse|Temperature Abuse]]
+2. [[Notes/Probe Thermometer|Probe Thermometer]]
+3. [[Notes/Flow of Food|Flow of Food]]
 
 ### Time Range Cheat Sheet
 
@@ -47,6 +47,7 @@ title: "Home"
 * **Reheating**: Above 74°C for 15 seconds within 2 hours
 
 ### Food Cook Temperature Cheat Sheet
+
 | Food                       | Temperature | Time Under Temperature |
 | -------------------------- | ----------- | ---------------------- |
 | Whole cuts of beef or veal | 63°C        | 3 minutes              |
@@ -59,40 +60,40 @@ title: "Home"
 
 ## Module 6: Cross Contamination Prevention
 
-1. [[Cross-Contamination]]
+1. [[Notes/Cross-Contamination|Cross-Contamination]]
 
 ## Module 7: Food Safety Management System (HACCP)
 
-1. [[HACCP]]
+1. [[Notes/HACCP|HACCP]]
 
 ## Module 8: Construction, Design, & Facilities
 
-1. [[Construction]]
-2. [[Legislated Kitchen Design Requirements]]
+1. [[Notes/Construction|Construction]]
+2. [[Notes/Legislated Kitchen Design Requirements|Legislated Kitchen Design Requirements]]
 
 ## Module 9: Receiving & Storage
 
-1. [[Receiving & Storage]]
+1. [[Notes/Receiving & Storage|Receiving & Storage]]
 
 ## Module 10: Displaying, Serving, & Discarding
 
-1. [[Displaying, Serving, & Discarding]]
+1. [[Notes/Displaying, Serving, & Discarding|Displaying, Serving, & Discarding]]
 
 ## Module 11: Cleaning and Sanitizing
 
-1. [[Sanitize]]
-2. [[Clean]]
-3. [[Dishwashing]]
+1. [[Notes/Cleanliness/Sanitize|Sanitize]]
+2. [[Notes/Cleanliness/Clean|Clean]]
+3. [[Notes/Cleanliness/Dishwashing|Dishwashing]]
 
 ## Module 12: Employee Hygiene
 
-1. [[Hand Washing]]
-2. [[Employee Clothing]]
+1. [[Notes/Cleanliness/Hand Washing|Hand Washing]]
+2. [[Notes/Cleanliness/Employee Clothing|Employee Clothing]]
 
 ## Module 13: Pest Control
 
-1. [[Pest Control]]
-2. [[Integrated Pest Management]]
+1. [[Notes/Pest Control|Pest Control]]
+2. [[Notes/Integrated Pest Management|Integrated Pest Management]]
 
 
 ## Summary
