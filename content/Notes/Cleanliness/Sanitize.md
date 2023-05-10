@@ -1,4 +1,5 @@
 ---
+title: "Sanitize"
 Alias: Sanitizer, Sanitizing, Sanitized, Chlorine, Quats, Iodine, Chemicals
 ---
 

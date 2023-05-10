@@ -1,3 +1,6 @@
+---
+title: "Employee Clothing"
+---
 ## Head Gear
 
 - Head gear must be work by food-handlers to confine the hair

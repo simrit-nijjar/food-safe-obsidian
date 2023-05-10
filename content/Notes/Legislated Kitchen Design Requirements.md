@@ -1,4 +1,5 @@
 ---
+title: "Legislated Kitchen Design Requirements"
 Alias: Adequate Lighting, Ventilation, Floors & Walls & Ceilings, Food-Contact Surfaces, Safe Drinking Water, Washrooms & Change Rooms, Dedicated Hand Washing Sink, Garbage and Liquid Waste Disposal, Dish Handling
 ---
 

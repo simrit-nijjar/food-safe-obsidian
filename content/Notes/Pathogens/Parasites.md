@@ -1,4 +1,5 @@
 ---
+title: "Parasites"
 Alias: Parasite
 ---
 

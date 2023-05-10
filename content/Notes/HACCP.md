@@ -1,3 +1,6 @@
+---
+title: "HACCP"
+---
 * A food safety plan a food premises operator integrates into all food preparation steps
 * Self monitoring system that should be practiced by all staff
 * Created by Pillsbury after being commissioned by NASA

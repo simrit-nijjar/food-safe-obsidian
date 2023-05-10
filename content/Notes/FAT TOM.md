@@ -1,3 +1,6 @@
+---
+title: "FAT TOM"
+---
 * The six things required for a pathogen to grow.
 * Controlling for at least one of these can help prevent [[Food-Borne Illness]].
  

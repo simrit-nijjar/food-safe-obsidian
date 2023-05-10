@@ -1,4 +1,5 @@
 ---
+title: "Integrated Pest Management"
 Alias: IPM
 ---
 

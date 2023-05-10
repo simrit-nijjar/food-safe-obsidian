@@ -1,3 +1,7 @@
+---
+title: "Understanding Microorganisms"
+---
+
 > When in doubt, throw it out!
 
 ## Pathogens

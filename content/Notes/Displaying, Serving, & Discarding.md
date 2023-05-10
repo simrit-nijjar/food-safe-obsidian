@@ -1,4 +1,5 @@
 ---
+title: "Displaying, Serving, & Discarding"
 alias: Displaying Food, Serving Food, Discarding Food
 ---
 

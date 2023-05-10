@@ -1,4 +1,5 @@
 ---
+title: "Dishwashing"
 Alias: Dishwasher, Manual Dishwashing
 ---
 

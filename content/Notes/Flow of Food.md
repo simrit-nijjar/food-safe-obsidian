@@ -1,3 +1,6 @@
+---
+title: "Flow of Food"
+---
 * Flow begins from the reception at supplier to customer
 * Each step has a time and temperature limit
 	* If not met, food should be discarded

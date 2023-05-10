@@ -1,4 +1,5 @@
 ---
+title: "Bacteria"
 alias: Botulism, Staph Aureus
 ---
 

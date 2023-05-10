@@ -1,4 +1,5 @@
 ---
+title: "Provincial Food Safety Regulations"
 alias: Health Inspector
 ---
 

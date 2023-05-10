@@ -1,3 +1,6 @@
+---
+title: "Public Health Act"
+---
 * Handled Provincially
 * Authorizes public health inspectors to find and regulate public health hazards
 * Helps find and eliminate Public Health Hazards in community

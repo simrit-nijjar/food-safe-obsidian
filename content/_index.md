@@ -1,3 +1,7 @@
+---
+title: "Home"
+---
+
 ## Module 01: Introduction
 
 1. [[Definitions]]

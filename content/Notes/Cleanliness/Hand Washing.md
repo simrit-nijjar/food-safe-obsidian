@@ -1,3 +1,6 @@
+---
+title: "Hand Washing"
+---
 - Hands should be washed before and after every task
 - Regular hand soap is preferred over anti-bacterial soap
 	- Anti-bacterial soap has a chemical that dries out hand

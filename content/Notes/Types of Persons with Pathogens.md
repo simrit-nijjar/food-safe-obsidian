@@ -1,3 +1,6 @@
+---
+title: "Types of Persons with Pathogens"
+---
 
 ## Carrier
 

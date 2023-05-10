@@ -1,3 +1,6 @@
+---
+title: "Food-Borne Illness"
+---
 * One in eight Canadians fall ill from **Food-Borne Illness** every year
 * Takes 1-3 days to appear
 	* Usually not caused by the last meal you ate.

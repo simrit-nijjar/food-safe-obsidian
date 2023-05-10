@@ -1,3 +1,6 @@
+---
+title: "Probe Thermometer"
+---
 ## Bimetallic Stemmed Thermometer
 
 * Needs to be inserted at least 2-3 inches above its head (at the dimple) to obtain an accurate reading

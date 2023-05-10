@@ -1,3 +1,6 @@
+---
+title: "Fungi"
+---
 * Includes both molds and yeasts
 	* Yeasts don't cause much [[Food-Borne Illness]], molds can.
 

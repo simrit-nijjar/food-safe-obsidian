@@ -1,3 +1,6 @@
+---
+title: "Key Messages"
+---
 1. Wash your hands
 2. Recognize potentially hazardous foods (6 growth needs of pathogenic bacteria)
 3. Watch Temperature 
