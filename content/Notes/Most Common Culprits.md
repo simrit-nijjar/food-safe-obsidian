@@ -25,12 +25,12 @@ title: "Most Common Culprits"
 
 ## Most Common Food Handling Errors Causing Outbreaks
 
-* Improper cooling of hazardous foods *(See [[Temperature Abuse]])*
-* Inadequate re-heating of hazardous foods *(See [[Temperature Abuse]])*
-* Improper hot holding of hazardous foods *(See [[Temperature Abuse]])*
-* [[Cross-Contamination]] 
+* Improper cooling of hazardous foods *(See [[notes/Temperature Abuse]])*
+* Inadequate re-heating of hazardous foods *(See [[notes/Temperature Abuse]])*
+* Improper hot holding of hazardous foods *(See [[notes/Temperature Abuse]])*
+* [[notes/Cross-Contamination]] 
 * Lapse of 12 hours or more between prep and eating
-* Food handling by a colonized/ill person *(See [[Types of Persons with Pathogens]])*
+* Food handling by a colonized/ill person *(See [[notes/Types of Persons with Pathogens]])*
 * Food from unsafe source
 * Inadequate cooking, canning, heat processing
 

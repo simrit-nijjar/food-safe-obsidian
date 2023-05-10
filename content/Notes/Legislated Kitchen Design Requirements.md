@@ -77,7 +77,7 @@ Alias: Adequate Lighting, Ventilation, Floors & Walls & Ceilings, Food-Contact S
 
 - Must have a hand-wash sink
 - Must have a hand-wash notice
-- Must have a coat or apron hook on the outside of the door to prevent [[Cross-Contamination|Contamination]] of outside clothing
+- Must have a coat or apron hook on the outside of the door to prevent [[notes/Cross-Contamination|Contamination]] of outside clothing
 - Must be ventilated and well lit
 - Must be cleaned and sanitized at least once a day, or as often necessary
 

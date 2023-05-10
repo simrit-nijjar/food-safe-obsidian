@@ -36,7 +36,7 @@ alias: Displaying Food, Serving Food, Discarding Food
 - Use ice from potable water
 	- Containers should be surrounded by ice, not just the bottom
 	- Do not place food directly in ice
-	- Melted ice must drain away from food to prevent [[Cross-Contamination|Contamination]]
+	- Melted ice must drain away from food to prevent [[notes/Cross-Contamination|Contamination]]
 
 ## General Serving Tips
 
@@ -59,7 +59,7 @@ alias: Displaying Food, Serving Food, Discarding Food
 
 ## Discarding Food Rules
 
-- Discard [[Potentially Hazardous Food]] after 2 hours at room temperatures
+- Discard [[notes/Potentially Hazardous Food]] after 2 hours at room temperatures
 - Discard food served, but not eaten
 - Discard single-use utensils served even if appearing as unused
 - Discard single-use utensils that are served and used

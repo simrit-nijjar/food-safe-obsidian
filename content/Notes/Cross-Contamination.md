@@ -3,7 +3,7 @@ title: "Cross-Contamination"
 Alias: Cross-Contaminated, Contamination, Contaminate, Cross-Contaminate
 ---
 
-* Number 2 cause of [[Food-Borne Illness]].
+* Number 2 cause of [[notes/Food-Borne Illness]].
 * Assume an raw meat (ground or whole) is contaminated by pathogens on the outside
 * Typically occurs during slaughter
 	* Feces of animals end up on the tools within kitchen

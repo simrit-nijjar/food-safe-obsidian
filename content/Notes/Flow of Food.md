@@ -14,10 +14,10 @@ title: "Flow of Food"
 * **Cooling**: 60°C to 4°C within 6 hours
 * **Reheating**: Above 74°C for 15 seconds
 
-## Stage 1: [[Receiving & Storage]]
+## Stage 1: [[notes/Receiving & Storage]]
 
 * Fresh potentially hazardous foods should be received at 4°C or lower
-	* The upper limit of the **Danger Zone** *(See [[Temperature Abuse]])*
+	* The upper limit of the **Danger Zone** *(See [[notes/Temperature Abuse]])*
 * Frozen potentially hazardous foods should be received at -18°C or lower
 	* Slows deterioration of foods
 	* Destroys parasites and their eggs
@@ -85,7 +85,7 @@ title: "Flow of Food"
 	* Refrigerating immediately
 	* Stirring Frequently 
 
-> *See [[FAT TOM]]* **(TIME)**
+> *See [[notes/FAT TOM]]* **(TIME)**
 
 ## Stage 7: Reheating
 
@@ -93,4 +93,4 @@ title: "Flow of Food"
 * Reheating process should not take more than 2 hours
 * Reheating should be done either on the stove, or the microwave
 
-**Related**: [[Potentially Hazardous Food]]
+**Related**: [[notes/Potentially Hazardous Food]]

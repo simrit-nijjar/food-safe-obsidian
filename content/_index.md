@@ -15,27 +15,27 @@ title: "Home"
 
 ## Module 03: Understanding Microorganisms
 
-1. [[Notes/Understanding Microorganisms|Understanding Microorganisms]]
-2. [[Notes/Types of Persons with Pathogens|Types of Persons with Pathogens]]
+1. [[notes/Understanding Microorganisms|Understanding Microorganisms]]
+2. [[notes/Types of Persons with Pathogens|Types of Persons with Pathogens]]
 3. [[notes/pathogens/Bacteria|Bacteria]]
-4. [[Notes/Potentially Hazardous Food|Potentially Hazardous Food]]
-5. [[Notes/FAT TOM|FAT TOM]]
+4. [[notes/Potentially Hazardous Food|Potentially Hazardous Food]]
+5. [[notes/FAT TOM|FAT TOM]]
 
 ## Module 04: Understanding Food-Borne Illness
 
-1. [[Notes/Food-Borne Illness|Food-Borne Illness]]
+1. [[notes/Food-Borne Illness|Food-Borne Illness]]
 	1. [[notes/pathogens/Bacteria|Bacteria]] (**Pathogenic Bacteria**)
 	2. [[notes/pathogens/Parasites|Parasites]]
 	3. [[notes/pathogens/Viruses|Viruses]]
 	4. [[notes/pathogens/Fungi|Fungi]]
-2. [[Notes/Probe Thermometer|Probe Thermometer]]
-3. [[Notes/Most Common Culprits|Most Common Culprits]]
+2. [[notes/Probe Thermometer|Probe Thermometer]]
+3. [[notes/Most Common Culprits|Most Common Culprits]]
 
 ## Module 05: Time-Temperature Control
 
-1. [[Notes/Temperature Abuse|Temperature Abuse]]
-2. [[Notes/Probe Thermometer|Probe Thermometer]]
-3. [[Notes/Flow of Food|Flow of Food]]
+1. [[notes/Temperature Abuse|Temperature Abuse]]
+2. [[notes/Probe Thermometer|Probe Thermometer]]
+3. [[notes/Flow of Food|Flow of Food]]
 
 ### Time Range Cheat Sheet
 
@@ -60,24 +60,24 @@ title: "Home"
 
 ## Module 6: Cross Contamination Prevention
 
-1. [[Notes/Cross-Contamination|Cross-Contamination]]
+1. [[notes/Cross-Contamination|Cross-Contamination]]
 
 ## Module 7: Food Safety Management System (HACCP)
 
-1. [[Notes/HACCP|HACCP]]
+1. [[notes/HACCP|HACCP]]
 
 ## Module 8: Construction, Design, & Facilities
 
-1. [[Notes/Construction|Construction]]
-2. [[Notes/Legislated Kitchen Design Requirements|Legislated Kitchen Design Requirements]]
+1. [[notes/Construction|Construction]]
+2. [[notes/Legislated Kitchen Design Requirements|Legislated Kitchen Design Requirements]]
 
 ## Module 9: Receiving & Storage
 
-1. [[Notes/Receiving & Storage|Receiving & Storage]]
+1. [[notes/Receiving & Storage|Receiving & Storage]]
 
 ## Module 10: Displaying, Serving, & Discarding
 
-1. [[Notes/Displaying, Serving, & Discarding|Displaying, Serving, & Discarding]]
+1. [[notes/Displaying, Serving, & Discarding|Displaying, Serving, & Discarding]]
 
 ## Module 11: Cleaning and Sanitizing
 
@@ -92,8 +92,8 @@ title: "Home"
 
 ## Module 13: Pest Control
 
-1. [[Notes/Pest Control|Pest Control]]
-2. [[Notes/Integrated Pest Management|Integrated Pest Management]]
+1. [[notes/Pest Control|Pest Control]]
+2. [[notes/Integrated Pest Management|Integrated Pest Management]]
 
 
 ## Summary

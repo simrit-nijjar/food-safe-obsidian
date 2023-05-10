@@ -5,7 +5,7 @@ Alias: Parasite
 
 * Grows inside the host.
 	* Does not grow in food.
-* **Danger Zone** does not affect likelihood of infection. (See [[Temperature Abuse]])
+* **Danger Zone** does not affect likelihood of infection. (See [[notes/Temperature Abuse]])
 
 ## Methods of Transfer to Humans
 
@@ -27,7 +27,7 @@ Alias: Parasite
 
 ### Giardia
 
-* Most common parasitic [[Food-Borne Illness]].
+* Most common parasitic [[notes/Food-Borne Illness]].
 * Also known as 'Beaver Fever' since beaver's are know to carry the parasite in their gut and transfer into the water through their waste.
 * Can be spread to humans through unwise decisions, such as drinking raw lake water.
 * Latches onto host's intestines causing the following:

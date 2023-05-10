@@ -3,7 +3,7 @@ title: "Temperature Abuse"
 Alias: Temperature Abused
 ---
 
-> Number 1 cause of [[Food-Borne Illness]]
+> Number 1 cause of [[notes/Food-Borne Illness]]
 
 * Occurs when food is either:
 	* Cooled too slowly
@@ -21,4 +21,4 @@ Alias: Temperature Abused
 * Cooling in large portions
 * Reheating in a hot-holding unit
 
-**Related**: [[FAT TOM]]
+**Related**: [[notes/FAT TOM]]

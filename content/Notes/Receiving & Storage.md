@@ -5,7 +5,7 @@
 - Ensure Cleanliness
 - Check shipping temperatures of foods within truck
 	- Fresh potentially hazardous foods should be received at 4°C or lower
-		* The upper limit of the **Danger Zone** *(See [[Temperature Abuse]])*
+		* The upper limit of the **Danger Zone** *(See [[notes/Temperature Abuse]])*
 	* Frozen potentially hazardous foods should be received at -18°C or lower
 		* Slows deterioration of foods
 		* Destroys parasites and their eggs

@@ -14,6 +14,6 @@ alias: Health Inspector
 * Enforce food safety regulation and act
 	* Can have non-compliant people with fines
 * Assist operators with creation of food safety plan
-	* [[HACCP]] is the main food safety plan 
+	* [[notes/HACCP]] is the main food safety plan 
 
 **Related:** [[notes/govenment/Public Health Act]]

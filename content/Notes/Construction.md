@@ -7,7 +7,7 @@ title: "Construction"
 ## Good Kitchen Layout Considerations
 
 - Good flow of people and food
-	- Avoid crowding and [[Cross-Contamination]]
+	- Avoid crowding and [[notes/Cross-Contamination]]
 - Lots of storage space
 	- Food Storage
 	- Staff Storage 
@@ -17,4 +17,4 @@ title: "Construction"
 - Separate hand washing and dishwashing sinks
 - Separate dishwashing areas from food preparation areas
 
-**Related**: [[Legislated Kitchen Design Requirements]]
+**Related**: [[notes/Legislated Kitchen Design Requirements]]

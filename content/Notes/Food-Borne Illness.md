@@ -131,4 +131,4 @@ title: "Food-Borne Illness"
 
 * Food-contact surfaces should be [[notes/cleanliness/Clean|Cleaned]] and [[notes/cleanliness/Sanitize|Sanitized]] every 4 hours (at minimum).
 
-**Related**: [[Potentially Hazardous Food]]
+**Related**: [[notes/Potentially Hazardous Food]]

@@ -7,12 +7,12 @@ title: "Probe Thermometer"
 	* Avoid touching bone or the container, as it will always be hotter than the food.
 * Insert through the side of the food when the food is very thin
 * Insert in the thickest part of the food
-* [[notes/cleanliness/Sanitize]] thermometer after each use to avoid [[Cross-Contamination]].
+* [[notes/cleanliness/Sanitize]] thermometer after each use to avoid [[notes/Cross-Contamination]].
 
 ## Temperature Records
 
-* Record temperature of [[Potentially Hazardous Food]] every 2 hours in a log book.
-	* Assures [[Temperature Abuse|Temperature Abused]] foods are never served
+* Record temperature of [[notes/Potentially Hazardous Food]] every 2 hours in a log book.
+	* Assures [[notes/Temperature Abuse|Temperature Abused]] foods are never served
 
 ## Calibrate Probe Thermometer
 

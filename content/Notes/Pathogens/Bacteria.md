@@ -14,7 +14,7 @@ Some bacteria can enter a **Spore State** where they do not grow but still survi
 * When multiplying, they'll create **toxin** (a disease-causing substance).
 * Toxin is usually just passed through the body and released through fecal matter.
 * They can **NOT** be easily destroyed by sanitizers and regular cooking temperatures.
-* Reheating food that has experienced [[Temperature Abuse]] will **NOT** make the food safe to eat.
+* Reheating food that has experienced [[notes/Temperature Abuse]] will **NOT** make the food safe to eat.
 
 ### Clostridium Botulinum
 * A type of pathogen spore that causes disease from its toxin.
@@ -35,7 +35,7 @@ Some bacteria can enter a **Spore State** where they do not grow but still survi
 
 * Ingestion of pathogenic bacteria which results in their tissue invasion.
 	* Does not relate to ingestion of **Bacterial Toxin**
-* Usually the result of undercooking [[Potentially Hazardous Food]] or contamination.
+* Usually the result of undercooking [[notes/Potentially Hazardous Food]] or contamination.
 * Takes at least a day or more to show symptoms.
 * **Symptoms Include**: 
 	* Diarrhea (bloody)
@@ -50,12 +50,12 @@ Some bacteria can enter a **Spore State** where they do not grow but still survi
 
 * Illness caused by the ingestion of **Bacterial Toxin**
 	* Does not relate the ingestion of living microorganisms.
-* Usually the result of [[Temperature Abuse]] of [[Potentially Hazardous Food]].
+* Usually the result of [[notes/Temperature Abuse]] of [[notes/Potentially Hazardous Food]].
 * Takes minutes to hours to show symptoms.
 * **Symptoms Include:** 
 	* Vomiting
 	* Nausea
 * **Common Culprits Include**: 
-	* Staph Aureus (See [[Understanding Microorganisms]])
+	* Staph Aureus (See [[notes/Understanding Microorganisms]])
 	* C. Botulinum (See above)
 	* Bacillus Cereus 

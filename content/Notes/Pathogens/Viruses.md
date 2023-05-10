@@ -6,7 +6,7 @@ Alias: Virus, Hepatitis A, Norovirus
 * Grows inside the host
 	* Does not grow inside food
 * Can survive on hard surfaces for up to a month or more.
-* **Danger Zone** does not affect likelihood of infection. (See [[Temperature Abuse]])
+* **Danger Zone** does not affect likelihood of infection. (See [[notes/Temperature Abuse]])
 
 ## Examples of Viruses
 

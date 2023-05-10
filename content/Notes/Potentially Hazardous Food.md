@@ -31,21 +31,21 @@ Remove one of the six needs of bacteria to grow. Creating a *barrier* between th
 * Cut away the bruises.
 
 ### Unpasteurized Juices and Ciders
-* [[Pasteurization]] is the best way to eliminate [[Food-Borne Illness]].
+* [[Pasteurization]] is the best way to eliminate [[notes/Food-Borne Illness]].
 	* Protects the most vulnerable from getting sick
 * Unpasteurized foods significantly increase the chances of pathogens.
 
 ### Vegetable Oil
-* Keep out of the *Danger Zone* (See [[Temperature Abuse]])
+* Keep out of the *Danger Zone* (See [[notes/Temperature Abuse]])
 
 ### Meat
 * Assume an raw meat (ground or whole) is contaminated by pathogens on the outside.
 * Contamination typically occurs during slaughter.
 * Burgers should be cooked until 71°C.
-	* Use a [[Probe Thermometer]] only.
+	* Use a [[notes/Probe Thermometer]] only.
 	* Avoid colour change as an indicator for cooked meat.
 * **Mechanical Meat Tenderization** makes undercooking whole cuts of meat more risky.
 	* Pushes pathogens deep inside the meats.
 	* All mechanically tenderized meats in Canada must be labeled (enforced by Health Canada)
 
-**Related**: [[Understanding Microorganisms]], [[Food-Borne Illness]]
+**Related**: [[notes/Understanding Microorganisms]], [[notes/Food-Borne Illness]]

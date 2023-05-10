@@ -2,7 +2,7 @@
 title: "FAT TOM"
 ---
 * The six things required for a pathogen to grow.
-* Controlling for at least one of these can help prevent [[Food-Borne Illness]].
+* Controlling for at least one of these can help prevent [[notes/Food-Borne Illness]].
  
 ## Food
 
@@ -21,14 +21,14 @@ title: "FAT TOM"
 
 ## Time
 
-* You have **2 hours** after cooking to eat a [[Potentially Hazardous Food]]
+* You have **2 hours** after cooking to eat a [[notes/Potentially Hazardous Food]]
 * If the ambient temperature is above 32° C, the **2 hour rule** becomes the **1 hour rule**.
 
 ## Temperature 
 
 * 4 - 60° C allows bacteria to grow quickly.
 	* 37° C is most dangerous temperature.
-	* (See [[Temperature Abuse]])
+	* (See [[notes/Temperature Abuse]])
 * Pre-cooked foods should always be monitored while cooling.
 * Food handlers are given a maximum of **6 hours** to cool through the *Danger Zone*
 	* **Stage 1**:  Cool from 60°C to 20°C within 2 hours.
