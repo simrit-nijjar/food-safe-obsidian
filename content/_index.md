@@ -4,30 +4,30 @@ title: "Home"
 
 ## Module 01: Introduction
 
-1. [[Notes/Introduction/Definitions|Definitions]]
-2. [[Notes/Introduction/Key Messages|Key Messages]]
+1. [[notes/introduction/Definitions|Definitions]]
+2. [[notes/introduction/Key Messages|Key Messages]]
 
 ## Module 02: Public Health Legislation & Local Health Department
 
-1. [[Notes/Govenment/Branches of Government|Branches of Government]]
-2. [[Notes/Govenment/Public Health Act|Public Health Act]]
-3. [[Notes/Govenment/Provincial Food Safety Regulations|Provincial Food Safety Regulations]]
+1. [[notes/govenment/Branches of Government|Branches of Government]]
+2. [[notes/govenment/Public Health Act|Public Health Act]]
+3. [[notes/govenment/Provincial Food Safety Regulations|Provincial Food Safety Regulations]]
 
 ## Module 03: Understanding Microorganisms
 
 1. [[Notes/Understanding Microorganisms|Understanding Microorganisms]]
 2. [[Notes/Types of Persons with Pathogens|Types of Persons with Pathogens]]
-3. [[Notes/Pathogens/Bacteria|Bacteria]]
+3. [[notes/pathogens/Bacteria|Bacteria]]
 4. [[Notes/Potentially Hazardous Food|Potentially Hazardous Food]]
 5. [[Notes/FAT TOM|FAT TOM]]
 
 ## Module 04: Understanding Food-Borne Illness
 
 1. [[Notes/Food-Borne Illness|Food-Borne Illness]]
-	1. [[Notes/Pathogens/Bacteria|Bacteria]] (**Pathogenic Bacteria**)
-	2. [[Notes/Pathogens/Parasites|Parasites]]
-	3. [[Notes/Pathogens/Viruses|Viruses]]
-	4. [[Notes/Pathogens/Fungi|Fungi]]
+	1. [[notes/pathogens/Bacteria|Bacteria]] (**Pathogenic Bacteria**)
+	2. [[notes/pathogens/Parasites|Parasites]]
+	3. [[notes/pathogens/Viruses|Viruses]]
+	4. [[notes/pathogens/Fungi|Fungi]]
 2. [[Notes/Probe Thermometer|Probe Thermometer]]
 3. [[Notes/Most Common Culprits|Most Common Culprits]]
 
@@ -81,14 +81,14 @@ title: "Home"
 
 ## Module 11: Cleaning and Sanitizing
 
-1. [[Notes/Cleanliness/Sanitize|Sanitize]]
-2. [[Notes/Cleanliness/Clean|Clean]]
-3. [[Notes/Cleanliness/Dishwashing|Dishwashing]]
+1. [[notes/cleanliness/Sanitize|Sanitize]]
+2. [[notes/cleanliness/Clean|Clean]]
+3. [[notes/cleanliness/Dishwashing|Dishwashing]]
 
 ## Module 12: Employee Hygiene
 
-1. [[Notes/Cleanliness/Hand Washing|Hand Washing]]
-2. [[Notes/Cleanliness/Employee Clothing|Employee Clothing]]
+1. [[notes/cleanliness/Hand Washing|Hand Washing]]
+2. [[notes/cleanliness/Employee Clothing|Employee Clothing]]
 
 ## Module 13: Pest Control
 

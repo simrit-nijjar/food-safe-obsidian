@@ -6,7 +6,7 @@ title: "Employee Clothing"
 - Head gear must be work by food-handlers to confine the hair
 - Could include a hat, hair net, visor, hair bandana
 - Prevents touching hair and scalp
-	- Head usually contains pathogens such as [[Bacteria|Staph Aureus]]
+	- Head usually contains pathogens such as [[notes/pathogens/Bacteria|Staph Aureus]]
 - Servers do not require head wear, but should still put in effort to avoid contamination regardless
 
 ## Uniform

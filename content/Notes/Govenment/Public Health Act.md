@@ -10,7 +10,7 @@ title: "Public Health Act"
 * No chlorine in public pools
 * Contamination in public drinking water
 
-**Public [[Provincial Food Safety Regulations|Health Inspector]]s** have power to interpret *Health Hazards* as they please and handle ruling accordingly
+**Public [[notes/govenment/Provincial Food Safety Regulations|Health Inspector]]s** have power to interpret *Health Hazards* as they please and handle ruling accordingly
 
 ## Food Premises Regulation
 
@@ -18,4 +18,4 @@ title: "Public Health Act"
 * All food handlers must follow regulations
 * Regulations available on main course page
 
-**Related**: [[Provincial Food Safety Regulations]]
+**Related**: [[notes/govenment/Provincial Food Safety Regulations]]

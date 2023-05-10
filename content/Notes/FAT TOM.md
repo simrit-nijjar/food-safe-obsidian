@@ -46,7 +46,7 @@ title: "FAT TOM"
 * Aerobic bacteria need oxygen to grow.
 	* **Ex**. Salmonella and E. Coli
 * Anaerobic bacteria need lack of oxygen to grow.
-	* **Ex**. Botulinum Spores (See [[Bacteria]])
+	* **Ex**. Botulinum Spores (See [[notes/pathogens/Bacteria]])
 * Adjusting the oxygen of a food can drastically affect the food risky risk in either direction
 
 ## Moisture

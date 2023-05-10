@@ -16,7 +16,7 @@ title: "Most Common Culprits"
 
 ### Gravy
 
-* Can contain bacterial spores (See [[Bacteria]])
+* Can contain bacterial spores (See [[notes/pathogens/Bacteria]])
 	* Bacillus Cereus Spores
 * Should be prepared in advance and cooled properly.
 	* Portion into small, shallow containers
@@ -36,4 +36,4 @@ title: "Most Common Culprits"
 
 * All ingredients must come from a government-approved source.
 	* Must be government-certified
-	* (See [[Provincial Food Safety Regulations]])
+	* (See [[notes/govenment/Provincial Food Safety Regulations]])

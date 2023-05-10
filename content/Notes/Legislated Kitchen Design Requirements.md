@@ -45,7 +45,7 @@ Alias: Adequate Lighting, Ventilation, Floors & Walls & Ceilings, Food-Contact S
 
 - **Ex**. Counters, cutting boards, grills, tables
 - Must be durable, smooth, light-coloured, non-absorbent, and easy to clean
-- Should be cleaned and [[Sanitize|Sanitized]] every 4 hours
+- Should be cleaned and [[notes/cleanliness/Sanitize|Sanitized]] every 4 hours
 
 ### Cutting Boards
 
@@ -94,20 +94,20 @@ Alias: Adequate Lighting, Ventilation, Floors & Walls & Ceilings, Food-Contact S
 * Each sink must have hot and cold running water, liquid soap in a dispenser, and paper towels
 	* If paper towels are in a roll, must be placed in a dispenser
 
-**Related**: [[Hand Washing]]
+**Related**: [[notes/cleanliness/Hand Washing]]
 
 ## Garbage and Liquid Waste Disposal
 
 * Must have many garbage bins in food-prep areas
 * Must be emptied often to prevent overfilling
-* Must be cleaned and [[Sanitize|Sanitized]] after each use
+* Must be cleaned and [[notes/cleanliness/Sanitize|Sanitized]] after each use
 * Garbage bins that are outside food premises must be pest proof, and able to keep odours and contaminated foods inside
 * Grease from grease-traps should be stored in pest-proof containers and kept outside
 	* Should be disposed of by a contracted disposal service
 
 ## Dish Handling
 
-* A 3-compartment sink with drain tables must be used in premises, unless approved by [[Provincial Food Safety Regulations|Health Inspector]]
+* A 3-compartment sink with drain tables must be used in premises, unless approved by [[notes/govenment/Provincial Food Safety Regulations|Health Inspector]]
 	* Must be big enough to adequately clean and sanitize utensils
 	* Dishwashing must be designed to handle both dirty and clean utensils
 	* Adequate separation must be maintained between dirty and clean dishes
@@ -115,5 +115,5 @@ Alias: Adequate Lighting, Ventilation, Floors & Walls & Ceilings, Food-Contact S
 * Drain Tables
 	* Must be installed (**mandatory**)
 	* Must be non-corrodible, self-draining, and be of sufficient size to air-dry dishes
-* Mechanical [[Dishwashing|Dishwasher]]
+* Mechanical [[notes/cleanliness/Dishwashing|Dishwasher]]
 	* Must be of commercial grade and certified to NSF international standards

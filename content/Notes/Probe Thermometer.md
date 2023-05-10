@@ -7,7 +7,7 @@ title: "Probe Thermometer"
 	* Avoid touching bone or the container, as it will always be hotter than the food.
 * Insert through the side of the food when the food is very thin
 * Insert in the thickest part of the food
-* [[Sanitize]] thermometer after each use to avoid [[Cross-Contamination]].
+* [[notes/cleanliness/Sanitize]] thermometer after each use to avoid [[Cross-Contamination]].
 
 ## Temperature Records
 

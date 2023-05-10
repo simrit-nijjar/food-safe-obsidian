@@ -12,7 +12,7 @@ title: "Food-Borne Illness"
 
 ### Pathogenic 
 
-> [[Bacteria]], [[Parasites]], [[Viruses]], or a [[Fungi]]
+> [[notes/pathogens/Bacteria]], [[notes/pathogens/Parasites]], [[notes/pathogens/Viruses]], or a [[notes/pathogens/Fungi]]
 
 * Usually transmitted fecal-orally
 	* Can be acquired anywhere around your environment.
@@ -46,7 +46,7 @@ title: "Food-Borne Illness"
 * Properly label chemicals
 	* **Ex**. Hand Sanitizer must be labeled
 * Read manufacturer directions beforehand
-	* Always look for '[[Sanitize]]r' on products before use
+	* Always look for '[[notes/cleanliness/Sanitize]]r' on products before use
 	* Disinfectants should not be used for sanitization
 * Do not reuse chemical containers for food
 * Avoid wearing nail polish when handling food
@@ -129,6 +129,6 @@ title: "Food-Borne Illness"
 
 ## Avoiding Food Borne Illness
 
-* Food-contact surfaces should be [[Clean|Cleaned]] and [[Sanitize|Sanitized]] every 4 hours (at minimum).
+* Food-contact surfaces should be [[notes/cleanliness/Clean|Cleaned]] and [[notes/cleanliness/Sanitize|Sanitized]] every 4 hours (at minimum).
 
 **Related**: [[Potentially Hazardous Food]]

@@ -16,4 +16,4 @@ alias: Health Inspector
 * Assist operators with creation of food safety plan
 	* [[HACCP]] is the main food safety plan 
 
-**Related:** [[Public Health Act]]
+**Related:** [[notes/govenment/Public Health Act]]

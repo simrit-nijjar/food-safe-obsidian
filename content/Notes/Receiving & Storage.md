@@ -80,7 +80,7 @@
 ### Canned Goods
 
 - Home-canned goods are not allowed
-	- Risk of [[Bacteria|Botulism]]
+	- Risk of [[notes/pathogens/Bacteria|Botulism]]
 	  
 - **Reject Canned Goods with the Following Properties:**
 	- Dents or Rust

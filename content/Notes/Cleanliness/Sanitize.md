@@ -10,7 +10,7 @@ Alias: Sanitizer, Sanitizing, Sanitized, Chlorine, Quats, Iodine, Chemicals
 
 ## What Should be Sanitized
 
-> Always [[Clean]] before satanizing
+> Always [[notes/cleanliness/Clean]] before satanizing
 
 - Food Contact Surfaces
 	- Cutting boards
@@ -61,7 +61,7 @@ Alias: Sanitizer, Sanitizing, Sanitized, Chlorine, Quats, Iodine, Chemicals
 
 #### 1. List of Cleaning and Sanitizing agents
 
-> These methods should be discussed with one's supplier or [[Provincial Food Safety Regulations|Health Inspector]]
+> These methods should be discussed with one's supplier or [[notes/govenment/Provincial Food Safety Regulations|Health Inspector]]
 
 - Describe which agents will be used
 - Describe how they will be mixed
@@ -89,4 +89,4 @@ Alias: Sanitizer, Sanitizing, Sanitized, Chlorine, Quats, Iodine, Chemicals
 - Dishwasher temperatures
 - Sanitizer concentrations
 
-**Related**: [[Clean|Cleaning]]
+**Related**: [[notes/cleanliness/Clean|Cleaning]]

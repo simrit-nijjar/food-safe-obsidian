@@ -9,9 +9,9 @@ Alias: Dishwasher, Manual Dishwashing
 	- Wash as 45°C with detergent
 - Rinse
 	- Rinse at 45°C with clean water
-- [[Sanitize]] (Air Dry)
+- [[notes/cleanliness/Sanitize]] (Air Dry)
 	- Sanitize at 77°C for 2 minutes
-	- Sanitize in [[Sanitize|Chlorine]] or [[Sanitize|Quats]] solution at 45°C for 2 minutes
+	- Sanitize in [[notes/cleanliness/Sanitize|Chlorine]] or [[notes/cleanliness/Sanitize|Quats]] solution at 45°C for 2 minutes
 
 ## Dishwashers
 
@@ -25,7 +25,7 @@ Alias: Dishwasher, Manual Dishwashing
 			- Must reach 82°C for at least 10 seconds
 			- Check temperature gauge
 		- **Low Temp**
-			- Sanitize using one of three approved [[Sanitize|Chemicals]]
+			- Sanitize using one of three approved [[notes/cleanliness/Sanitize|Chemicals]]
 			- Check Sanitizer Test Strips for concentrations
 			
 - Should contain drain boards for sufficient space to air-dry

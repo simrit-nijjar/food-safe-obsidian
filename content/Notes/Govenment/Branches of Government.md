@@ -11,7 +11,7 @@ title: "Branches of Government"
 ## Provincial
 
 #### Ministry of Health
-* Public Health Inspection ([[Public Health Act]])
+* Public Health Inspection ([[notes/govenment/Public Health Act]])
 * Inspection and enforcement
 
 #### Ministry of Agriculture

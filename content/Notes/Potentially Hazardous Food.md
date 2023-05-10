@@ -3,7 +3,7 @@ title: "Potentially Hazardous Food"
 Alias: PHF
 ---
 
-* A food with the requirements needed to to allow [[Bacteria]] to grow quickly.
+* A food with the requirements needed to to allow [[notes/pathogens/Bacteria]] to grow quickly.
 * Should be consumed within 2 hours of being cooked.
 
 ## Characteristics of PHF
@@ -21,7 +21,7 @@ Remove one of the six needs of bacteria to grow. Creating a *barrier* between th
 ### Produce
 * Non-hazardous food
 * Can still cause FBI.
-* Generally cannot support the creation of [[Bacteria]].
+* Generally cannot support the creation of [[notes/pathogens/Bacteria]].
 * Generally considered non-hazardous.
 * Cut produce should be kept in a refrigerator.
 	* The nutrients released while cutting can allow bacteria to grow.
